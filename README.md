@@ -15,14 +15,6 @@ I co-lead **Lúmina Studio**, where I combine creativity and strategy to build s
 - Backend development with Node.js and Firebase
 - Strategies for scalable UI/UX design systems
 
-## 👯 I’m looking to collaborate on
-- Open source projects related to education, design systems, and accessibility
-- Creative tech solutions that need both technical and design thinking
-
-## 🤔 I’m looking for help with
-- Scaling Flutter apps with high performance
-- Integrating Open Finance securely
-
 ## 💬 Ask me about
 - Prototyping screens
 - Wordpress
@@ -37,12 +29,5 @@ I co-lead **Lúmina Studio**, where I combine creativity and strategy to build s
 - Email: samuel@iluminastudio.com.br
 - Phone: +55 (045) 9-9141-0169
 
-## 😄 Pronouns
-He/Him (or customize as needed)
-
 ## ⚡ Fun fact
 I believe design is not just how things look — it's how they *work* and *feel*. I also love turning complex ideas into clear, creative solutions.
-
----
-
-Thanks for stopping by!
